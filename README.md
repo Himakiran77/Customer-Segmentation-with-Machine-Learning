@@ -10,3 +10,13 @@ Nowadays Companies want to know their customers better so that they can provide 
 Customer segmentation also improves customer service and assists in customer loyalty and retention.
 
 With the help of Customer segmentation, we can also save waste of money on marketing campaigns. As we will be knowing the customers we need to target.
+
+Required libraries for Machine Learning Customer Segmentation Project:
+There are certain libraries you are required to install in your system, they are:
+
+Numpy (pip install numpy)
+Pandas (pip install pandas)
+Matplotlib (pip install matplotlib)
+Seaborn (pip install seaborn)
+Sklearn (pip install sklearn)
+mpl_toolkits (pip install mpl_toolkits)
