@@ -15,8 +15,13 @@ Required libraries for Machine Learning Customer Segmentation Project:
 There are certain libraries you are required to install in your system, they are:
 
 Numpy (pip install numpy)
+
 Pandas (pip install pandas)
+
 Matplotlib (pip install matplotlib)
+
 Seaborn (pip install seaborn)
+
 Sklearn (pip install sklearn)
+
 mpl_toolkits (pip install mpl_toolkits)
